@@ -9,7 +9,7 @@ This is my solution to the [3 Column Preview Card Component](https://www.fronten
 ## 🔗 Links
 
 - Live Site URL: [3 Column Preview Card - Live](https://telmomanduco.github.io/3-column-preview-card-component-main/)
-- Solution on Frontend Mentor: [Frontend Mentor 3 Column Preview Card](https://www.frontendmentor.io/solutions/3-column-preview-card-component)
+- Solution on Frontend Mentor: [Frontend Mentor 3 Column Preview Card](https://www.frontendmentor.io/solutions/3-column-preview-card-component-gridflex-GOg1naTF1d)
 
 ## 💻 Built with
 
